@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "modular start app",
-    "start:studio": "yarn workspace studio721 start",
+    "start:studio": "yarn workspace studio721 start -p 3002",
     "build:studio": "yarn workspace studio721 build",
     "start:polygen": "yarn workspace polygen dev",
     "build:polygen": "yarn workspace polygen build",
